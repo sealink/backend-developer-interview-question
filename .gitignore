@@ -1,0 +1,7 @@
+# We ignore everything and whitelist the three files we care about to prevent
+# people being able to work on this repository if they fork it as they should
+# be creating a fresh repository to link to us.
+*
+!.gitignore
+!CHANGELOG.md
+!README.md
